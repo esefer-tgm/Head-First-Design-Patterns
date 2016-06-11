@@ -1,4 +1,12 @@
-
+/**
+ * Das Iterator Pattern wird dafür verwendet, um die Enten
+ * als eine Gruppe zusammengefasst. 
+ *
+ * Pattern: Iterator 
+ *
+ * @author Sefer
+ * @version 2016-06-11
+ */
 
 import java.util.Iterator;
 import java.util.ArrayList;

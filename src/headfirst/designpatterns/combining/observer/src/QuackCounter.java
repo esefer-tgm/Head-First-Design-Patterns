@@ -1,4 +1,12 @@
-
+/**
+ * Durch das Vereinen von Observer Pattern und Factory Pattern
+ * wird dieser Klasse ermöglicht die Anzahl der "Quack" zu zählen. 
+ * 
+ * Pattern: Observer, Factory 
+ *
+ * @author Sefer
+ * @version 2016-06-11
+ */
 
 public class QuackCounter implements Quackable {
 	Quackable duck;

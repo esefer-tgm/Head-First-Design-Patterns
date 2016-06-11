@@ -1,4 +1,10 @@
-
+/**
+ * In dieser Klasse befindet sich die Main-Methode. In dieser Klasse
+ * werden die konkreten Enten erzeugt.
+ * 
+ * @author Sefer
+ * @version 2016-06-11
+ */
 
 public class DuckSimulator {
 	public static void main(String[] args) {

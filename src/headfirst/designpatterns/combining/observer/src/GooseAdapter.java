@@ -1,4 +1,13 @@
-
+/**
+ * Falls bei einer Klasse die Schnittstelle nicht der benötigten
+ * Schnittstelle entspricht wird Adapter Pattern verwendet.
+ * In diesem Fall wird aus einer Ente eine Gans.
+ * 
+ * Pattern: Adapter
+ *
+ * @author Sefer
+ * @version 2016-06-11
+ */
 
 public class GooseAdapter implements Quackable {
 	Goose goose;
